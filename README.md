@@ -32,7 +32,7 @@ Inspect the `.csv` files and sketch an entity relationship diagram (ERD) of the 
 ---
 
 ## Data Analysis
-A summary file of all relevant SQL queries is included in the file named `all_queries.sql`. Individual query and results files are also provided, as described below.
+A summary file of all relevant SQL queries is included under `all_queries.sql`. Individual query and results files are also provided, as described below.
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
     - The query script is called `da-01-employee_info_query.sql`.
