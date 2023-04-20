@@ -10,11 +10,9 @@ For this project, we have instnatiated a relational database, designed a schema 
 ## Data Modeling
 
 ### Procedure
-1. Inspect the `.csv` files and sketch an entity relationship diagram (ERD) of the tables.
+Inspect the `.csv` files and sketch an entity relationship diagram (ERD) of the tables.
 
     ![ERD](EmployeeSQL/EmployeeSQL_ERD.png)
-
-2. 
 ---
 
 ## Data Engineering
@@ -25,7 +23,7 @@ For this project, we have instnatiated a relational database, designed a schema 
     * Specify the data types, primary keys, foreign keys, and other constraints.
 
     * For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
-    
+
     * Be sure to create the tables in the correct order to handle the foreign keys.
 
 2. Import each CSV file into its corresponding SQL table.
