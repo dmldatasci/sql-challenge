@@ -33,17 +33,33 @@ Inspect the `.csv` files and sketch an entity relationship diagram (ERD) of the 
 
 ## Data Analysis
 1. List the employee number, last name, first name, sex, and salary of each employee.
+    - The query script is called `da-01-employee_info_query.sql`.
+    - The results file is called `da-01-employee_info_query_results.csv`.
 
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
+    - The query script is called `da-02_hired_1986_query.sql`.
+    - The results file is called `da-02_hired_1986_query._results.csv`.
 
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
+    - The query script is called `da-03-manager_query.sql`.
+    - The results file is called `da-03-manager_query_results.csv`.
 
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+    - The query script is called `da-04-employees_with_department_query.sql`.
+    - The results file is called `da-04-employees_with_department_query_results.csv`.
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+    - The query script is called `da-05-hercules_b_query.sql`.
+    - The results file is called `da-05-hercules_b_query_results.csv`.
 
 6. List each employee in the Sales department, including their employee number, last name, and first name.
+    - The query script is called `da-06-sales_employees_query.sql`.
+    - The results file is called `da-06-sales_employees_query_results.csv`.
 
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+    - The query script is called `da-07-sales_dev_employees_query.sql`.
+    - The results file is called `da-07-sales_dev_employees_query_results.csv`.
 
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+    - The query script is called `da-08-surname_frequency_query.sql`.
+    - The results file is called `da-08-surname_frequency_query_results.csv`.
