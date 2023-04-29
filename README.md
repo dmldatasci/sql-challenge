@@ -14,6 +14,8 @@ Inspect the `.csv` files and sketch an entity relationship diagram (ERD) of the 
 
 ![ERD](EmployeeSQL/EmployeeSQL_ERD.png)
 
+    * The files `dm-01-employee_sql_erd.png` and `dm-02-table_schema.pdf` contain relevant ERD information.
+
 ---
 
 ## Data Engineering
@@ -28,6 +30,8 @@ Inspect the `.csv` files and sketch an entity relationship diagram (ERD) of the 
     * Be sure to create the tables in the correct order to handle the foreign keys.
 
 2. Import each CSV file into its corresponding SQL table.
+
+The files labeled `de-01-create_database.sql`, `de-02-create_tables.sql` and `EmployeeSQL/de-02-create_tables.sql` contain all critical information pertaining to the construction of our database and tables. The schema is clearly outlined both in these files and in the files referenced by the `Data Modeling` section.
 
 ---
 
