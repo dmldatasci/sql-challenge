@@ -12,7 +12,7 @@ For this project, we have instnatiated a relational database, designed a schema 
 ### Procedure
 Inspect the `.csv` files and sketch an entity relationship diagram (ERD) of the tables.
 
-![ERD](EmployeeSQL/EmployeeSQL_ERD.png)
+![ERD](EmployeeSQL/dm-01-employee_sql_erd.png)
 
     * The files `dm-01-employee_sql_erd.png` and `dm-02-table_schema.pdf` contain relevant ERD information.
 
